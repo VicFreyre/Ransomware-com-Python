@@ -30,5 +30,7 @@ pip install pyaes
 1. Para criptografar um arquivo, execute o script `encrypt.py`.
 2. Para descriptografar um arquivo, execute o script `decrypt.py`.
 
+________________________________________________________________________________________________________________________________________________________________________________________
+
 **Atenção**: Este repositório contém um exemplo de ransomware, destinado apenas para fins educacionais e de demonstração. O uso de ransomware é ilegal e antiético. Esteja ciente das implicações legais e éticas antes de explorar ou desenvolver software de criptografia.
 
